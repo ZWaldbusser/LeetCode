@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //When doing Minimum Depth problem, having not fully read the question (and a brain-fart), This was my original solution.
+    //When doing Minimum Depth problem, having not fully read the question (and a brain-fart), This was my original "solution".
     int getDepth(TreeNode* root) {
         if (root == nullptr) {
             return 0;
