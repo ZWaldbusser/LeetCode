@@ -1,9 +1,5 @@
 class Solution {
 public:
-
-    void expand(vector<vector<int>>& matrix, int i, int j) {
-        
-    }
     void setZeroes(vector<vector<int>>& matrix) {
         vector<int> rows;
         vector<int> columns;
